@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 868e9da32cc1e6d40901672bbc28fd96, type: 3}
+  m_Name: MultiShotWeapon
+  m_EditorClassIdentifier: Assembly-CSharp::ProjectileWeaponDataSO
+  weaponName: Multiple Projectile
+  baseDamage: 7
+  baseCooldown: 1.2
+  baseProjectileSpeed: 12
+  projectileLifetime: 3
+  projectileCount: 3
+  spreadAngle: 20
+  projectileColor: {r: 0.93948025, g: 0.9575472, b: 0.9575472, a: 1}
+  projectileScale: 0.1
